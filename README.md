@@ -2,7 +2,7 @@
 
 <h1>Obrigado por Vim!!!❤️❤️</h1>
 <div id'badges'>
-    <a href = "https://twitter.com/Alessan63448086" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+    <a href = "https://twitter.com/Alessan63448086"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </div>
 <h2>Seja Bem Vindo ou Bem Vinda ao meu GitHub!!!🗿🍷</h2>
 <ul>
